@@ -1,7 +1,7 @@
 // The current version of lottie requires okio, which any team wanting to use
 // lottie will need to add via the go/android-3p process to fix the build...
 android_library {
-    name: "lottie",
+    name: "airbnb-lottie",
     srcs: [
         "lottie/src/main/**/*.java",
     ],
